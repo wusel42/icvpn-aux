@@ -1,3 +1,5 @@
+# Meta file for the icvpn-TLD. See https://github.com/wusel42/icvpn-aux
+# for details how to set up this for yourself.
 tech-c:
  - wusel+ffmue@uu.org
 networks:
