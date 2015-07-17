@@ -1,0 +1,2 @@
+# Rebuild icvpn zones once per hour
+0 * * * * $HOME/icvpn-aux/scripts/update-icvpn-zone.sh
